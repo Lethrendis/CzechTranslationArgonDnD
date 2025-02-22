@@ -1,0 +1,27 @@
+{
+  "id": "czechtranslationargondnd",
+  "title": "CzechTranslationArgonDnD",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12.331",
+    "verified": "12.331"
+  },
+  "description": "Český překlad Argon - Combat HUD DnD 4.2.1.",
+  "authors": [
+    {
+      "name": "Lethrendis",
+      "discord": "Lethrendis",
+      "url": "https://github.com/Lethrendis"    
+    }
+  ],
+  "languages": [
+    {
+      "lang": "cs",
+      "name": "Čeština",
+      "path": "lang/cs.json"
+    }
+  ],
+  "url": "https://github.com/Lethrendis/CzechTranslationArgonDnD",
+  "manifest": "https://raw.githubusercontent.com/Lethrendis/CzechTranslationArgonDnD/main/module.json",
+  "download": "https://github.com/Lethrendis/CzechTranslationArgonDnD/archive/refs/heads/main.zip"
+}
