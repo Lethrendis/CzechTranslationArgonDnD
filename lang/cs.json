@@ -11,31 +11,31 @@
   "settings": {
     "switchEquip": {
         "name": "Automatické vybavení",
-        "hint": "Při přepnutí setu se automaticky vybaví/odloží předměty"
+        "hint": "Při přepnutí setu se automaticky vybaví/odloží předměty."
     },
     "showWeaponsItems": {
-        "name": "Zobrazit zbraně v sekci 'Použít předmět'",
-        "hint": "Zobrazí zbraně v sekci 'Použít předmět'. Užitečné, pokud nestačí karty na zbraně"
+        "name": "Zobrazení zbraní v sekci 'Použít předmět'",
+        "hint": "Zobrazí zbraně v sekci 'Použít předmět'. Užitečné, pokud nestačí karty na zbraně."
     },
     "showClassActions": {
-        "name": "Zobrazit akce povolání",
-        "hint": "Zobrazí akce povolání v hlavní sekci akcí"
+        "name": "Zobrazení akcí povolání",
+        "hint": "Zobrazí akce povolání v hlavní sekci akcí."
     },
     "condenseClassActions": {
-        "name": "Kondenzovat akce povolání",
-        "hint": "Pokud je povoleno 'Zobrazit akce třídy', sbalí se pro úsporu místa akce povolání do párů"
+        "name": "Kondenzace akcí povolání",
+        "hint": "Pokud je zaškrtnuto 'Zobrazení akcí povolání', sbalí se pro úsporu místa akce povolání do párů."
     },
     "noAA": {
-        "name": "Nepoužívat aktivní efekty",
-        "hint": "Při použití speciálních akcí se nepoužívají aktivní efekty. (vyžaduje znovunačtení)"
+        "name": "Záka používání aktivních efektů",
+        "hint": "Při použití speciálních akcí se nepoužívají aktivní efekty. (Vyžaduje znovunačtení)."
     },
     "showSpecialActions": {
-        "name": "Zobrazit základní akce",
-        "hint": "V sekci hlavní akce se zobrazí základní akce v sekci hlavní akce. (Uhýbání, Sprint, Odpoutání se, Schování se, Příprava, Strčit)"
+        "name": "Zobrazení základních akcí",
+        "hint": "V sekci hlavní akce se zobrazí základní akce. (Uhýbání, Sprint, Odpoutání se, Schování se, Příprava, Strčit)."
     },
     "macroPanel": {
         "name": "Lišta maker",
-        "hint": "Zobrazí lištu maker pro každou postavu zrcadlící makra na rychlé liště maker"
+        "hint": "Zobrazí lištu maker pro každou postavu zrcadlící makra na rychlé liště maker."
     }
     },
     "hud": {
@@ -110,7 +110,7 @@
     },
     "hide": {
         "name": "Skrýt se",
-        "desc": "<p>Když provedeš akci Schování se, hodíš si na Obratnost (Nenápadnost) ve snaze se schovat podle pravidel dle skrytí. Pokud uspěješ, získáš určité výhody.</p>\n<p data-content-chunk-id=\"d49da437-9800-4cdb-be60-5c1cc12e45f2\">Bojovníci se často snaží uniknout pozornosti svých nepřátel tím, že se schovají, sešlou kouzlo Neviditelnost, nebo se schovávají ve tmě.</p>\n<p data-content-chunk-id=\"c7a62036-4c31-4a7f-bd29-db5f4a873f8c\">Když útočíš na cíl, který nevidíš, máš Nevýhodu na hod na útok. To platí, ať už hádáš polohu cíle, nebo když útočíš na tvora, kterého slyšíš, ale nevidíš. Pokud cíl není na místě, na které útočíš, automaticky mineš, ale PJ obvykle pouze oznámují, že útok minul, aniž by upřesnili, zda byla uhádnuta správná poloha.</p>\n<p data-content-chunk-id=\"760a7b7d-7681-4f2c-a356-05594eca1bbd\">Když tě tvor nevidí, máš na útok proti němu Výhodu. Pokud jsi skrytý--neviděný a neslyšený--a provedeš útok, prozradíš svou polohu, ať už útok zasáhne, nebo mine.</p><p>&nbsp;</p>"
+        "desc": "<p>Když provedeš akci Skrýt se, hodíš si na Obratnost (Nenápadnost) ve snaze se schovat podle pravidel dle skrytí. Pokud uspěješ, získáš určité výhody.</p>\n<p data-content-chunk-id=\"d49da437-9800-4cdb-be60-5c1cc12e45f2\">Bojovníci se často snaží uniknout pozornosti svých nepřátel tím, že se schovají, sešlou kouzlo Neviditelnost, nebo se schovávají ve tmě.</p>\n<p data-content-chunk-id=\"c7a62036-4c31-4a7f-bd29-db5f4a873f8c\">Když útočíš na cíl, který nevidíš, máš Nevýhodu na hod na útok. To platí, ať už hádáš polohu cíle, nebo když útočíš na tvora, kterého slyšíš, ale nevidíš. Pokud cíl není na místě, na které útočíš, automaticky mineš, ale PJ obvykle pouze oznámují, že útok minul, aniž by upřesnili, zda byla uhádnuta správná poloha.</p>\n<p data-content-chunk-id=\"760a7b7d-7681-4f2c-a356-05594eca1bbd\">Když tě tvor nevidí, máš na útok proti němu Výhodu. Pokud jsi skrytý--neviděný a neslyšený--a provedeš útok, prozradíš svou polohu, ať už útok zasáhne, nebo mine.</p><p>&nbsp;</p>"
     },
     "shove": {
         "name": "Strčit",
