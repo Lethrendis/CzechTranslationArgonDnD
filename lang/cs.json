@@ -14,24 +14,24 @@
         "hint": "Při přepnutí setu se automaticky vybaví/odloží předměty."
     },
     "showWeaponsItems": {
-        "name": "Zobrazení zbraní v sekci 'Použít předmět'",
-        "hint": "Zobrazí zbraně v sekci 'Použít předmět'. Užitečné, pokud nestačí karty na zbraně."
+        "name": "Zobrazení zbraní na kartě 'Použít předmět'",
+        "hint": "Zobrazí zbraně na kartě 'Použít předmět'. Užitečné, pokud nestačí karty zbraní."
     },
     "showClassActions": {
         "name": "Zobrazení akcí povolání",
-        "hint": "Zobrazí akce povolání v hlavní sekci akcí."
+        "hint": "Zobrazí akce povolání na kartě hlavních akcí."
     },
     "condenseClassActions": {
         "name": "Kondenzace akcí povolání",
         "hint": "Pokud je zaškrtnuto 'Zobrazení akcí povolání', sbalí se pro úsporu místa akce povolání do párů."
     },
     "noAA": {
-        "name": "Záka používání aktivních efektů",
-        "hint": "Při použití speciálních akcí se nepoužívají aktivní efekty. (Vyžaduje znovunačtení)."
+        "name": "Zákaz používání aktivních efektů",
+        "hint": "Při použití speciálních akcí se nepoužívají aktivní efekty. (Vyžaduje znovunačtení)"
     },
     "showSpecialActions": {
         "name": "Zobrazení základních akcí",
-        "hint": "V sekci hlavní akce se zobrazí základní akce. (Uhýbání, Sprint, Odpoutání se, Schování se, Příprava, Strčit)."
+        "hint": "Na kartě hlavních akcí se zobrazí základní akce. (Uhýbání, Sprint, Odpoutání se, Schování se, Příprava, Strčit.)"
     },
     "macroPanel": {
         "name": "Lišta maker",
@@ -64,7 +64,7 @@
                 "name": "Přeskočit"
             },
             "endturn": {
-                "name": "Konec tahu"
+                "name": "Ukončit tah"
             },
             "hp": {
                 "name": "BV"
