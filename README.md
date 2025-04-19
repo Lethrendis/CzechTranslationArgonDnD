@@ -1,10 +1,10 @@
 
-# CzechArgonCombatHUDDnD4.2.1
+# CzechArgonCombatHUDDnD
 
-Czech translation of Argon - Combat HUD DnD version 4.2.1.
+Czech translation of Argon - Combat HUD DnD version 4.3.4.
 
 ## Popis
-Tento modul poskytuje českou lokalizaci pro Argon - Combat HUD DnD verze 4.2.1. Obsahuje překlady základních textů aplikace.
+Tento modul poskytuje českou lokalizaci pro Argon - Combat HUD DnD verze 4.3.4. Obsahuje překlady základních textů aplikace.
 
 ## Instalace
 Pro instalaci modulu obvyklým upůsobem můžeš použít následující odkaz ve Foundry VTT:
