@@ -21,7 +21,7 @@
       "path": "lang/cs.json"
     }
   ],
-  "url": "https://raw.githubusercontent.com/Lethrendis/CzechTranslationArgonDnD/main/module.json",
-  "manifest": "https://raw.githubusercontent.com/Lethrendis/CzechTranslationArgonDnD/main/module.json",
-  "download": "https://github.com/Lethrendis/CzechTranslationArgonDnD/archive/refs/heads/main.zip"
+  "url": "https://raw.githubusercontent.com/Lethrendis/CzechTranslationArgonDnD/Core12/module.json",
+  "manifest": "https://raw.githubusercontent.com/Lethrendis/CzechTranslationArgonDnD/Core12/module.json",
+  "download": "https://github.com/Lethrendis/CzechTranslationArgonDnD/archive/refs/heads/Core12.zip"
 }
