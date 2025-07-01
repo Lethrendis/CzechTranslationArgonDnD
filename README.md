@@ -10,7 +10,7 @@ Tento modul poskytuje českou lokalizaci pro Argon - Combat HUD DnD verze 4.3.4.
 Pro instalaci modulu obvyklým upůsobem můžeš použít následující odkaz ve Foundry VTT:
 
 ```
-https://raw.githubusercontent.com/Lethrendis/CzechTranslationArgonDnD/main/module.json
+https://raw.githubusercontent.com/Lethrendis/CzechTranslationArgonDnD/Core12/module.json
 ```
 
 ## Autor
