@@ -27,7 +27,7 @@
     },
     "noAA": {
         "name": "Zákaz používání aktivních efektů",
-        "hint": "Při použití speciálních akcí se nepoužívají aktivní efekty. (Vyžaduje znovunačtení)"
+        "hint": "Při použití speciálních akcí se nepoužívají aktivní efekty. (Vyžaduje znovunačtení.)"
     },
     "showSpecialActions": {
         "name": "Zobrazení základních akcí",
@@ -35,7 +35,7 @@
     },
     "macroPanel": {
         "name": "Lišta maker",
-        "hint": "Zobrazí lištu maker pro každou postavu zrcadlící makra na rychlé liště maker."
+        "hint": "Zobrazí lištu maker každé postavy zrcadlící makra na rychlé liště maker."
     }
     },
     "hud": {
