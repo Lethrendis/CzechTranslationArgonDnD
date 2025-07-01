@@ -10,31 +10,31 @@
     },
   "settings": {
     "switchEquip": {
-        "name": "Automatické vybavení",
-        "hint": "Při přepnutí setu se automaticky vybaví/odloží předměty."
+        "name": "Automaticky vybavovat předměty?",
+        "hint": "Při přepnutí setu se předměty automaticky vybaví/odloží."
     },
     "showWeaponsItems": {
-        "name": "Zobrazení zbraní na kartě 'Použít předmět'",
-        "hint": "Zobrazí zbraně na kartě 'Použít předmět'. Užitečné, pokud nestačí karty zbraní."
+        "name": "Zobrazovat zbraně na kartě 'Předměty'?",
+        "hint": "Zobrazí zbraně na kartě 'Předměty'. Užitečné, pokud nestačí karty zbraní."
     },
     "showClassActions": {
-        "name": "Zobrazení akcí povolání",
+        "name": "Zobrazovat akce povolání?",
         "hint": "Zobrazí akce povolání na kartě hlavních akcí."
     },
     "condenseClassActions": {
-        "name": "Kondenzace akcí povolání",
-        "hint": "Pokud je zaškrtnuto 'Zobrazení akcí povolání', sbalí se pro úsporu místa akce povolání do párů."
+        "name": "Kondenzovat akce povolání?",
+        "hint": "Pokud je zaškrtnuto 'Zobrazovat akce povolání', sbalí se pro úsporu místa akce povolání do párů."
     },
     "noAA": {
         "name": "Zákaz používání aktivních efektů",
         "hint": "Při použití speciálních akcí se nepoužívají aktivní efekty. (Vyžaduje znovunačtení.)"
     },
     "showSpecialActions": {
-        "name": "Zobrazení základních akcí",
+        "name": "Zobrazovat základní akce?",
         "hint": "Na kartě hlavních akcí se zobrazí základní akce. (Uhýbání, Sprint, Odpoutání se, Schování se, Příprava, Strčit.)"
     },
     "macroPanel": {
-        "name": "Lišta maker",
+        "name": "zobrazovat lištu maker?",
         "hint": "Zobrazí lištu maker každé postavy zrcadlící makra na rychlé liště maker."
     }
     },
@@ -43,13 +43,13 @@
                 "name": "Hlavní akce"
             },
             "castspell": {
-                "name": "Seslat kouzlo"
+                "name": "Kouzla"
             },
             "usepower": {
-                "name": "Použít schopnost"
+                "name": "Schopnosti"
             },
             "useitem": {
-                "name": "Použít předmět"
+                "name": "Předměty"
             },
             "bonusaction": {
                 "name": "Bonusová akce"
