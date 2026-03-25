@@ -1,13 +1,13 @@
 
-# CzechArgonCombatHUDDnD
+# CzechArgonDnD
 
-Czech translation of Argon - Combat HUD DnD version 5.0.1.
+Czech translation of Argon DnD version 5.1.5
 
 ## Popis
-Tento modul poskytuje českou lokalizaci pro Argon - Combat HUD DnD verze 5.0.1. Obsahuje překlady základních textů aplikace.
+Tento modul poskytuje českou lokalizaci pro Argon DnD verze 5.1.5. Obsahuje překlady základních textů aplikace.
 
 ## Instalace
-Pro instalaci modulu obvyklým upůsobem můžeš použít následující odkaz ve Foundry VTT:
+Pro instalaci modulu obvyklým způsobem můžeš použít následující odkaz ve Foundry VTT:
 
 ```
 https://raw.githubusercontent.com/Lethrendis/CzechTranslationArgonDnD/main/module.json

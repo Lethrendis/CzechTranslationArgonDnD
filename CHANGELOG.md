@@ -1,5 +1,5 @@
 Changelog
 
-Verze 1.1.0:
+Verze 1.2.0
 První verze modulu.
-Kompletní překlad Argon - Combat HUD DnD 5.0.1.
+Kompletní překlad Argon DnD 5.1.5.
